@@ -7,5 +7,5 @@
 
 <div style="text-align: justify">This project is a solution to the business problem of reducing excess products or creating new products from existing ones. It uses a sample data source that resembles a dataset in the business. The techniques used require knowledge of matrix algebra and general data cleaning practices.</div>
 <br>
-<center><img src="https://github.com/cesarservin/cesarservin.github.io/blob/main/assets/supermarket-banner-with-various-items.jpg"/></center>
+<center><img src="assets/supermarket-banner-with-various-items.png"/></center>
 <br>
