@@ -17,5 +17,5 @@
 
 <div style="text-align: justify">This project is a solution to the business problem of offering customers relevant bundles that align with their purchasing patterns. This not only increases the likelihood of additional sales but also enhances the overall customer experience by providing tailored product recommendations.</div>
 <br>
-<center><img src="assets/assets/suggest_item.png"/></center>
+<center><img src="assets/suggest_item.png"/></center>
 <br>
