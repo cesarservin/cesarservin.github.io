@@ -44,6 +44,9 @@ extra:
       link: https://github.com/cesarservin
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/cesarservin/
+  analytics:
+    provider: google
+    property: G-Z37MCTG3TH
 
 markdown_extensions:
 
