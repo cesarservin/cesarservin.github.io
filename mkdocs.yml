@@ -89,7 +89,7 @@ copyright: |
 
 nav: # Setting up the navigation. Te below list will be tabs on left panel
   - 'Home': index.md
-  - Projects:
-    - Pairing Optimization: https://cesarservin.com/pairing-optimization/index.html
+  # - Projects:
+  #   - Pairing Optimization: https://cesarservin.com/pairing-optimization/index.html
   # - Projects:
   #     - 'Project': page2.md  # A markdown file for documenting the package structure
