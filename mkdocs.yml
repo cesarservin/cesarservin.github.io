@@ -4,12 +4,13 @@ theme:
   icon:
     logo: material/dna
   features:
-    - navigation.tabs
-    - navigation.sections
-    # - toc.integrate
+    # - navigation.tabs
+    # - navigation.sections
+    # # - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
+    - search.share
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
@@ -40,7 +41,7 @@ plugins:
 extra:
   generator: false
   social:
-    - icon: fontawesome/brands/github-alt
+    - icon: fontawesome/brands/github
       link: https://github.com/cesarservin
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/cesarservin/
@@ -88,5 +89,7 @@ copyright: |
 
 nav: # Setting up the navigation. Te below list will be tabs on left panel
   - 'Home': index.md
-  # - Structure:
+  - Projects:
+    - Pairing Optimization: https://cesarservin.com/pairing-optimization/index.html
+  # - Projects:
   #     - 'Project': page2.md  # A markdown file for documenting the package structure
