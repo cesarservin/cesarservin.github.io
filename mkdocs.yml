@@ -4,9 +4,7 @@ theme:
   icon:
     logo: material/dna
   features:
-    # - navigation.tabs
-    # - navigation.sections
-    # # - toc.integrate
+    - navigation.sections
     - navigation.top
     - search.suggest
     - search.highlight
@@ -15,19 +13,20 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: en
-  palette:
-    - scheme: default
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-      primary: deep purple
-      accent: indigo 
-    - scheme: slate 
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode    
-      primary: deep purple
-      accent: indigo
+palette:
+  - scheme: default
+    toggle:
+      icon: material/weather-night
+      name: Switch to dark mode
+    primary: custom
+    accent: indigo 
+  - scheme: slate 
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to light mode    
+    primary: custom
+    accent: indigo
+
 
 plugins:
   - search
@@ -38,16 +37,6 @@ plugins:
     #       options:
     #         show_root_heading: true
 
-extra:
-  generator: false
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/cesarservin
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/cesarservin/
-  analytics:
-    provider: google
-    property: G-Z37MCTG3TH
 
 markdown_extensions:
 
@@ -84,6 +73,26 @@ markdown_extensions:
   - pymdownx.tilde
 
 
+extra_javascript:
+- assets/javascripts/katex.js
+- https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
+- https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
+
+extra_css:
+- https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
+- assets/stylesheets/extra.css
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/cesarservin
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/cesarservin/
+  analytics:
+    provider: google
+    property: G-Z37MCTG3TH
+    
 copyright: |
   &copy; 2024 <a href="https://github.com/cesarservin"  target="_blank" rel="noopener">Cesar Servin</a>
 
