@@ -13,19 +13,20 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: en
-palette:
-  - scheme: default
-    toggle:
-      icon: material/weather-night
-      name: Switch to dark mode
-    primary: custom
-    accent: indigo 
-  - scheme: slate 
-    toggle:
-      icon: material/weather-sunny
-      name: Switch to light mode    
-    primary: custom
-    accent: indigo
+  
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: custom
+      accent: indigo 
+    - scheme: slate 
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode    
+      primary: custom
+      accent: indigo
 
 
 plugins:

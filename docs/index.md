@@ -19,7 +19,7 @@ This project is a `solution` to the business problem of reducing `excess` produc
 
 This project offers customers `relevant` products that align with their purchasing patterns. This not only increases the likelihood of `additional` sales but also enhances the overall ``customer experience`` by providing tailored product `recommendations`.
 
-<img src="assets\suggest_item.png" alt="Pairs" width="400" height="267">
+<img src="assets\suggest_item.jpg" alt="Pairs" width="400">
 
 <br>
 
