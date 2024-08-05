@@ -3,9 +3,9 @@
 ## Data Science Portfolio
 
 ### Pairing Optimization
-[![View Project](https://img.shields.io/badge/Material-View_Project-purple?logo=MaterialforMKDOCS)](https://cesarservin.com/pairing-optimization/index.html)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/cesarservin/pairing-optimization/blob/main/notebooks/main.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cesarservin/pairing-optimization)
+[![View Project](https://img.shields.io/badge/Material-View_Project-purple?logo=MaterialforMKDOCS)](https://cesarservin.com/pairing_optimization/index.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/cesarservin/pairing_optimization/blob/main/notebooks/main.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cesarservin/pairing_optimization)
 
 This project is a `solution` to the business problem of reducing `excess` products or creating new products from pairing up existing ones. It uses a sample data source that resembles a dataset in the business. 
 
