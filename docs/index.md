@@ -13,9 +13,11 @@ This project is a `solution` to the business problem of reducing `excess` produc
 
 <br>
 
-### RecommendRank
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/cesarservin/Retail-Store-Markov-Chains-/blob/main/notebooks/Retail%2BStore%2BMarkov%2BChains.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cesarservin/Retail-Store-Markov-Chains-)
+### Ranked Recommendation
+
+[![View Project](https://img.shields.io/badge/Material-View_Project-purple?logo=MaterialforMKDOCS)](https://cesarservin.com/ranked_recommendation/index.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/cesarservin/ranked_recommendation/blob/main/notebooks/ranked_recommendation_main.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cesarservin/ranked_recommendation)
 
 This project offers customers `relevant` products that align with their purchasing patterns. This not only increases the likelihood of `additional` sales but also enhances the overall ``customer experience`` by providing tailored product `recommendations`.
 
