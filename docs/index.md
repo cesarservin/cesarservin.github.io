@@ -25,8 +25,6 @@ This project offers customers `relevant` products that align with their purchasi
 
 <br>
 
-<br>
-
 ### Topic Modeling
 
 [![View Project](https://img.shields.io/badge/Material-View_Project-purple?logo=MaterialforMKDOCS)](https://cesarservin.com/topic_modeling/index.html)
