@@ -38,6 +38,19 @@ This project identifies `topics` from text (`product descriptions`) to reveal un
 
 <br>
 
+### Product Similarity
+
+[![View Project](https://img.shields.io/badge/Material-View_Project-purple?logo=MaterialforMKDOCS)](https://cesarservin.com/product_similarity/index.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/cesarservin/topic_modeling/blob/main/notebooks/product_similarity_main.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cesarservin/product_similarity)
+
+Finds `similar products` based on their `text` based descriptions to find `competition, complements, and niches` in the market
+
+
+<img src="assets\product_similarity_logo.jpg" alt="Pairs" width="400">
+
+<br>
+
 <!-- <br>
 <center><img src="assets/suggest_item.png" width="400" height="400"/></center>
 <br> -->
